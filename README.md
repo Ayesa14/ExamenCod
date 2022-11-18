@@ -1,2 +1,1 @@
-# examenDAM
-Para utilizarlo en el examen
+Clonamos el repositorio: git clone -o nombre https://dirección del repositorio a clonar. nos situamos con cd en la carpeta,y modificamos el README.md con  modificación>README. Loañadimos con gid add y creamos un commit con git commit -m mensaje
